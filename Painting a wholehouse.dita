@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Repainting</title>
+    <shortdesc> Refreshing a house with paint requires completing the following tasks.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Create a Map of the Floor plan</p>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Draw a simple floor plan or use a free on line tool for creating a digital
+                    floor plan. Here is sn online options for creating a digitial floor plan: <xref
+                        href="https://www.roomsketcher.com/features/2d-floor-plans/" format="html"
+                        scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd>Calculate the square footage of each room. <xref
+                        href="https://www.calculatorsoup.com/calculators/construction/square-footage-calculator.php"
+                        format="php" scope="external"/></cmd>
+            </step>
+        </steps>
+      
+    </taskbody>
+    
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Picking_a_color_schema">
+    <title>Color Scheme</title>
+    <shortdesc>Whole House color schemes should be related on the color wheel.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Consult paint brands for color coordinating brocedures.  Benjamin Moore: <xref
+                        href="https://www.benjaminmoore.com/en-us/color-overview/color-palettes/color-trends-2019"
+                        format="html" scope="external"/>
+                </cmd>
+            </step><step>
+                <cmd>Inspiration can be found through blogs for example: <xref
+                        href="https://www.blesserhouse.com/our-whole-house-paint-color-scheme/"
+                        format="html" scope="external"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
